@@ -49,6 +49,7 @@ module.exports = {
         dark_khaki: '#d4ac8e',
         light_gray: '#e4ded5',
         dark_redish: '#b55730',
+        dark_pink: '#d90f54',
       },
       margin: {
         '220p': '13.75rem',
