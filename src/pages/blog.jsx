@@ -1,4 +1,4 @@
-export default function blog() {
+export default function Blog() {
   return (
     <main>
       <h1 className='block mx-auto text-lg font-bold text-dark_chocolate'>
