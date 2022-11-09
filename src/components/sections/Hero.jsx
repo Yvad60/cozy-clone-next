@@ -8,7 +8,7 @@ export default function Hero() {
     <section className='overflow-hidden bg-hero_bg'>
       <SectionMargin>
         <div className='relative'>
-          <div className='flex flex-col lg:py-16 lg:flex-row'>
+          <div className='flex flex-col lg:py-16 lg:fl` ex-row'>
             <div className='flex flex-col flex-shrink-0 max-w-675p gap-50p'>
               <h1 className='font-black text-transparent py-10p text-[60px] lg:text-90p leading-[1.1em] lg:leading-99p bg-clip-text bg-dark_khaki bg-noise font-Fraunces144ptsupersoft '>
                 Your design team for the cost of a salary.
