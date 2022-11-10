@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Footer from '../components/sections/Footer';
 import Help from '../components/sections/Help';
 import Hero from '../components/sections/Hero';
+import Reachout from '../components/sections/Reachout';
 import Testimonial from '../components/sections/Testimonial';
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <main>
         <Hero />
         <Testimonial />
+        <Reachout />
         <Help />
         <Footer />
       </main>
