@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/chat-icon-black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons/chat-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,6 L2,22 L6,22 L6,27.09375 L7.625,25.78125 L12.34375,22 L22,22 L22,6 L2,6 Z M4,8 L20,8 L20,20 L11.65625,20 L11.375,20.21875 L8,22.90625 L8,20 L4,20 L4,8 Z M24,10 L24,12 L28,12 L28,24 L24,24 L24,26.90625 L20.34375,24 L12.84375,24 L10.34375,26 L19.65625,26 L26,31.09375 L26,26 L30,26 L30,10 L24,10 Z" id="icon" fill="#161A25" fill-rule="nonzero"></path>
+    </g>
+</svg>

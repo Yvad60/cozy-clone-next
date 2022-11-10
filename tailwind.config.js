@@ -61,6 +61,9 @@ module.exports = {
       letterSpacing: {
         '2p': '0.125rem',
       },
+      boxShadow: {
+        testimony_card: '0 10px 24px 0',
+      },
     },
   },
   plugins: [],
