@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import React from 'react';
 import cozyLogo from '/public/assets/svgs/cozy_logo.svg';
 import humbergerIcon from '/public/assets/svgs/icons/humberger.svg';
 
